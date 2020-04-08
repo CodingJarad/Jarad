@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<main id="main">
+    <h2 id="title">Mrs Faustina Akuffo Mensah</h2>
+        <p>
+            The True mother
+        </p>
+            <figure id="img-div">
+              <img src="https://dailyguidenetwork.com/wp-content/uploads/2019/12/Nadia-Buari-600x406.jpg" alt="Mrs Faustina Akuffo in her residence" id="image"></img>
+            <figcaption id="figcaption">
+                Mrs Faustina Akuffo in her residence in 2004
+            </figcaption>
+        </figure>
+        <section id="tribute-info">
+            <h3 id="headline">Timeline of Mrs Faustina Akuffo's life</h3>
+            <ul>
+                <li>
+                  <strong>1959</strong> - Born in Akuapem Akropong
+              </li>
+                <li>
+                  <strong>1962</strong> - Began schooling in the Presbyterian local school</li>
+                <li>
+                  <strong>1976</strong> - Completed 'O' Level education</li>
+                <li>
+                  <strong>1978</strong> - Travelled to Nigeria in search of greener pastures</li>
+                <li>
+                  <strong>1983</strong> - She was deported back to Ghana due tardewars with Nigeria</li>
+                <li>
+                  <strong>1987</strong> - She got married to Mr. James Kwadwo Tardieh of Kumasi</li>
+                <li>
+                  <strong>1995</strong> - 1962 - Visits Delhi and brings his high-yielding strains of wheat to the Indian subcontinent in time to help mitigate mass starvation due to a rapidly expanding population </li>
+                <li>
+                  <strong>2000</strong> - states "we will have to double the world food supply by 2050." Argues that genetically modified crops are the only way we can meet the demand, as we run out of arable land. Says that GM crops are not inherently dangerous because "we've been genetically modifying plants and animals for a long time. Long before we called it science, people were selecting the best breeds."</li>
+                <li>
+                  <strong>2009</strong> - Passed away at the Age of 50</li>
+            </ul>
+
+            <br>
+            <h3> For further reading about the works of Mrs Fautina Akuffo Mensah
+                <a id="tribute-link" href="http://wikipedia.com" target="_blank">Wikipedia Entry</a>
+            </h3>
+        </section>
+</main>
+>/html>
