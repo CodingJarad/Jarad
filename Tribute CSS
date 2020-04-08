@@ -1,0 +1,69 @@
+h2 {
+  font-size: 36px;
+  font-family: acme;
+  text-align: center;
+  color: teal;
+}
+
+h3{
+  Font-size: 24px;
+  font-family: Frank Ruhl Libre;
+  text-align: center;
+  color: darkslateblue;
+}
+
+main {
+  background-color: darkgrey;
+  text-align: center;
+  line-height: 2.5;
+  margin: 10;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+p {
+  font-size: 25px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+@media (max-width: 460px) {
+  #img-caption {
+    font-size: 1.4rem;
+  }
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
